@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-08",
+  "venue": "predict",
+  "note": "free sample (lite): one real unmodified UTC day (2026-09-08), laid out exactly as the paid archive is",
+  "bundle": {
+    "name": "predict-fun-lite-data-samples.tar.gz",
+    "topLevelDir": "predict-fun-lite-data-samples",
+    "bytes": 39620859,
+    "sha256": "66dbd70f4a1142f2e2ebd4fea1ea6d43e004bcb685f8fd5e4d8901f6ff26fed7",
+    "url": "https://github.com/outcometick/predict-fun-lite-data-samples/releases/latest/download/predict-fun-lite-data-samples.tar.gz"
+  },
+  "files": [
+    {
+      "path": "data/predict-fun/orderbook/BTC-5M/BTC-5M-predict-orderbook-2026-09-08.jsonl.gz",
+      "name": "BTC-5M-predict-orderbook-2026-09-08.jsonl.gz",
+      "rows": 478603,
+      "bytes": 39643207,
+      "sha256": "02e52cf08d4cd3ce7deae9653e72ab2d864d98bdae37cf39b2015e2610ad3824"
+    },
+    {
+      "path": "data/predict-fun/markets/predict-markets-2026-09-08.jsonl.gz",
+      "name": "predict-markets-2026-09-08.jsonl.gz",
+      "rows": 1245,
+      "bytes": 71275,
+      "sha256": "09d92d2acf39fc4da5414d3ac72f9eeafd0a13c45417ec4fbbeccf7821c4d1c9"
+    }
+  ]
+}
