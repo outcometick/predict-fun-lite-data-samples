@@ -22,9 +22,9 @@ Field reference: [DATA_GUIDE.md](DATA_GUIDE.md) · 中文字段说明：[数据�
 
 - **Markets** — opening price, closing price and settled outcome for every market on the venue
 - **[Order book](https://outcometick.com/predict-fun-order-book-data) snapshots** — full depth on both sides, 5-minute and 15-minute markets
-- Every asset we collect, the latest 90 days
+- Every asset we collect; the 90 days up to the purchase date (a fixed window)
 
-> **中文：** 市场信息（全部市场的开盘价、收盘价、结算结果）、5 分钟 / 15 分钟市场的盘口快照（完整深度）；全部币种、最近 90 天。
+> **中文：** 市场信息（全部市场的开盘价、收盘价、结算结果）、5 分钟 / 15 分钟市场的盘口快照（完整深度）；全部币种；下单时最近 90 天（固定区间）。
 
 ## Files in this sample / 样本包含的文件
 
